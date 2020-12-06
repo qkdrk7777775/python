@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ducj/jupyter/pycaret/mlruns/1/2a2021f855294804bf4f4515ede08b97/artifacts
+end_time: 1605860788864
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 2a2021f855294804bf4f4515ede08b97
+run_uuid: 2a2021f855294804bf4f4515ede08b97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1605860788697
+status: 3
+tags: []
+user_id: ducj
