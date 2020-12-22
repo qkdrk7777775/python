@@ -5,4 +5,4 @@
 *.npy
 *.csv
 !pytorch_study/pytorch_convolutional_rnn/.keep
-
+단열선도/*
